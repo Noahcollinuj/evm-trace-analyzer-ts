@@ -50,3 +50,4 @@ Usage:
 - Update note 3332
 - Update note 8982
 - Update note 7920
+- Update note 9379
