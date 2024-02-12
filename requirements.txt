@@ -20,3 +20,4 @@ aiohttp==0.8.4
 eth-abi==2.2.7
 eth-abi==2.3.2
 eth-abi==0.8.7
+eth-abi==1.1.3
