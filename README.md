@@ -59,3 +59,4 @@ Usage:
 - Update note 6191
 - Update note 4477
 - Update note 3628
+- Update note 8771
