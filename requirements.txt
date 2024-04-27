@@ -39,3 +39,4 @@ eth-abi==1.6.7
 pydantic==2.9.8
 eth-abi==2.6.4
 aiohttp==1.4.2
+aiohttp==2.9.1
