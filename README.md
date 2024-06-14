@@ -36,3 +36,4 @@ Usage:
 - Update note 5370
 - Update note 7431
 - Update note 8316
+- Update note 6918
