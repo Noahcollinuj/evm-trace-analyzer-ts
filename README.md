@@ -41,3 +41,4 @@ Usage:
 - Update note 6330
 - Update note 2207
 - Update note 6832
+- Update note 2487
