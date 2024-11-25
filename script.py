@@ -12,3 +12,4 @@
 # fix 2887
 # fix 8181
 # fix 7823
+# optimize 8307
