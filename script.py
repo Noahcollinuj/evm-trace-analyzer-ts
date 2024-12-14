@@ -50,3 +50,4 @@
 # fix 6022
 # fix 5757
 # refactor 1642
+# fix 1778
