@@ -57,3 +57,4 @@ Usage:
 - Update note 7973
 - Update note 9259
 - Update note 6191
+- Update note 4477
