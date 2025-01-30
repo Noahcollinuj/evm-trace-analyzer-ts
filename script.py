@@ -2,3 +2,4 @@
 # optimize 5601
 # optimize 4807
 # fix 9547
+# fix 7324
