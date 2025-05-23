@@ -37,3 +37,4 @@
 # optimize 8052
 # optimize 6750
 # fix 7529
+# optimize 3688
