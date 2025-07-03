@@ -29,3 +29,4 @@ Usage:
 - Update note 6918
 - Update note 1478
 - Update note 8610
+- Update note 8594
