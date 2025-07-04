@@ -40,3 +40,4 @@ Usage:
 - Update note 7046
 - Update note 6330
 - Update note 2207
+- Update note 6832
